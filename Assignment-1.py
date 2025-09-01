@@ -1,4 +1,5 @@
-#This is my assignment-1.
+#This ia a python code snippet that demonstrates the use of variables, constants & the print function.
+
 # Variables - values that can be changed
 name = "Slyvester"
 age = 37
